@@ -5,10 +5,10 @@
 **A website I designed, built and launched for Haddad Empire Pty Ltd, a media, promotional and outreach agency in Sydney.**
 
 <p>
-<a href="https://haddadempire.com"><picture><img alt="haddadempire.com" src="https://img.shields.io/badge/website-haddadempire.com-7a1f1f?style=flat-square" height="28"></picture></a>
-<a href="https://haddadempire.com.au"><picture><img alt="haddadempire.com.au" src="https://img.shields.io/badge/website-haddadempire.com.au-7a1f1f?style=flat-square" height="28"></picture></a>
-<picture><img alt="Client project" src="https://img.shields.io/badge/type-client%20project-b08d57?style=flat-square" height="28"></picture>
-<picture><img alt="Status: live" src="https://img.shields.io/badge/status-live-2e7d32?style=flat-square" height="28"></picture>
+<a href="https://haddadempire.com"><picture><img alt="haddadempire.com" src="https://img.shields.io/badge/Website-haddadempire.com-7a1f1f?style=flat-square" height="28"></picture></a>
+<a href="https://haddadempire.com.au"><picture><img alt="haddadempire.com.au" src="https://img.shields.io/badge/Website-haddadempire.com.au-7a1f1f?style=flat-square" height="28"></picture></a>
+<picture><img alt="Client Project" src="https://img.shields.io/badge/Type-Client%20Project-b08d57?style=flat-square" height="28"></picture>
+<picture><img alt="Status: Live" src="https://img.shields.io/badge/Status-Live-2e7d32?style=flat-square" height="28"></picture>
 </p>
 
 <p>
